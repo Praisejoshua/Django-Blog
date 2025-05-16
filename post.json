@@ -1,0 +1,55 @@
+{
+    "posts": [
+      {
+        "title": "The Future of AI in Blogging",
+        "content": "Artificial Intelligence is transforming the blogging industry, making content creation easier and more efficient...",
+        "user_id": 1
+      },
+      {
+        "title": "10 Tips for Writing Engaging Blog Posts",
+        "content": "Writing a blog post that captures your audience's attention requires planning and creativity. Here are 10 tips to help you craft compelling posts...",
+        "user_id": 2
+      },
+      {
+        "title": "SEO Best Practices for Bloggers",
+        "content": "Optimizing your blog for search engines can significantly improve your visibility. Learn the best SEO strategies to rank higher on Google...",
+        "user_id": 3
+      },
+      {
+        "title": "How to Monetize Your Blog in 2025",
+        "content": "Earning money from blogging is possible with the right strategies. Here are the top ways to monetize your blog in 2025...",
+        "user_id": 4
+      },
+      {
+        "title": "The Power of Storytelling in Blogging",
+        "content": "A good story can captivate readers and make your content more memorable. Discover the secrets of effective storytelling for blogs...",
+        "user_id": 5
+      },
+      {
+        "title": "Essential Tools for Every Blogger",
+        "content": "From content management systems to analytics tools, every blogger needs the right resources. Here are the must-have tools for bloggers...",
+        "user_id": 1
+      },
+      {
+        "title": "How to Build an Audience for Your Blog",
+        "content": "Growing a blog requires engagement, consistency, and promotion. Learn the best techniques to attract and retain readers...",
+        "user_id": 2
+      },
+      {
+        "title": "Content Marketing Strategies for Bloggers",
+        "content": "Content marketing is key to driving traffic to your blog. Explore the best strategies to maximize your reach...",
+        "user_id": 3
+      },
+      {
+        "title": "The Role of Social Media in Blogging Success",
+        "content": "Social media platforms can help increase blog traffic and engagement. Find out how to leverage social media for your blog...",
+        "user_id": 4
+      },
+      {
+        "title": "Blogging Mistakes to Avoid",
+        "content": "Many bloggers make common mistakes that hinder their growth. Avoid these pitfalls to ensure your blog's success...",
+        "user_id": 5
+      }
+    ]
+  }
+  
